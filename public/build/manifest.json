@@ -1,0 +1,28 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-Dr-DCBgI.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DmWYDTl0.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "imports": [
+      "resources/js/echo.js"
+    ]
+  },
+  "resources/js/echo.js": {
+    "file": "assets/echo-D_fenG74.js",
+    "name": "echo",
+    "src": "resources/js/echo.js",
+    "isEntry": true
+  },
+  "resources/js/messenger.js": {
+    "file": "assets/messenger-Bawf6hTX.js",
+    "name": "messenger",
+    "src": "resources/js/messenger.js",
+    "isEntry": true
+  }
+}
